@@ -1,0 +1,40 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    font-weight: 700;
+}
+html {
+    background-image: url(Marip.jpg);
+}
+.contiene{
+    background-color: rosybrown;
+    padding: 1%;
+}
+#about{
+    text-align:left;
+}
+
+.container{
+    display:flex;
+    justify-content: center;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+contacto{
+    justify-content: center;
+}
+.texto{
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
